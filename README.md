@@ -4,6 +4,7 @@ Vera Kong and Nicole Danuwidjaja
 Professor Caglar Yildirim - DS3000
 
 [Final Report](https://github.com/VKong6019/ds3000-F20/blob/main/DS3000_FP4_Section1_Group15.ipynb)
+[Group Presentation](https://www.youtube.com/watch?v=lWBLmwkWCJM)
 
 ### Executive Summary
 Cities are faced with an increase in usage of bike-sharing programs as such technology is becoming readily available. Bike programs provide more people the opportunity to ride a bike, along with providing health and environmental benefits. To best understand how these programs can be best improved for maintenance and accessibility, this project will analyze the relationships between ride-sharer behavior and the weather, particularly in the city of Boston and their Bluebikes program.
